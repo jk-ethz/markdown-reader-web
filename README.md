@@ -2,6 +2,8 @@
 
 Dockerized markdown reader package for the web. Compact, lightweight and easy to use.
 
+![](example.png)
+
 ## Usage
 
 ```
