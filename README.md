@@ -1,6 +1,6 @@
 # Markdown-Reader-Web
 
-Dockerized markdown reader package for the web.
+Dockerized markdown reader package for the web. Compact, lightweight and easy to use.
 
 ## Usage
 
